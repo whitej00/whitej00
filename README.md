@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+### 🌱 I’m currently learning ...
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitej00&count_bg=%2329E3DD&title_bg=%23A0DDD5&icon=cashapp.svg&icon_color=%23E10C0C&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdka12)](https://solved.ac/wlsdka12)
 
 <!--
 **whitej00/whitej00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
