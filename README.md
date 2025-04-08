@@ -1,3 +1,3 @@
 ### Hi there
 
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/wlsdka12" width="600" height="300"/></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsdka12)](https://solved.ac/wlsdka12)
